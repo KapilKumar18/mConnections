@@ -1,5 +1,5 @@
-npm install
+Kindly perform below steps:-
 
-npm i font-awesome
-
-npm start
+1) npm install
+2) npm install font-awesome
+3) npm start
